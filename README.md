@@ -1,5 +1,4 @@
-# Milk sensor monitoring project
-## 20131108 HCrockford
+# Milk sensor monitoring project - 20131108
 
 ## farms with data
 ### JW - every 4 units, ~ 1000
