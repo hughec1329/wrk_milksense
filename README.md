@@ -1,4 +1,4 @@
-# Milk sensor monitoring project - 20131108
+# Milk sensor monitoring project 
 
 ## farms with data
 ### JW - every 4 units, ~ 1000
@@ -11,5 +11,5 @@
 
 ### APF - ~2500 over all farms
 
-### Union ~1300
+### UW ~1300
 
